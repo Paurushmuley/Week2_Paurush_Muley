@@ -1,0 +1,25 @@
+{
+  "name": "week2_paurush_muley",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/pg": "^8.11.6",
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "save": "^2.9.0"
+  }
+}
